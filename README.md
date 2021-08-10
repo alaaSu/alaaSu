@@ -1,7 +1,7 @@
 ### Hi there, I'm Alaa
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/alaasulami?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alaasulami?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%alaasulami&screen_name=alaasulami)
 
 ## I'm Software Developer, and UI/UX Designer!!
 I'm Intrested in: 
